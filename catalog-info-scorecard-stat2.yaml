@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "hello-world-app-scorecard-stat2"
   annotations:
-    backstage.io/techdocs-ref:
+    backstage.io/techdocs-ref: ''
     github.com/project-slug: ajinkya-harness/hello-world-app
     backstage.io/kubernetes-label-selector: 'app=idp-ui'
     backstage.io/kubernetes-namespace: '642d4b9741ee3c555d4e1a7f'
