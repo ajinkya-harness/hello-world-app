@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "hello-world-app-scorecard-stat2"
   tags:
-    - ScorecardTest
+    - scorecardstattest
   annotations:
     github.com/project-slug: ajinkya-harness/hello-world-app
     backstage.io/kubernetes-label-selector: 'app=idp-ui'
