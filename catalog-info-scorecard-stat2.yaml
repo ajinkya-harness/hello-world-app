@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "hello-world-app-scorecard-stat2"
+  tags:
+    - ScorecardTest
   annotations:
     github.com/project-slug: ajinkya-harness/hello-world-app
     backstage.io/kubernetes-label-selector: 'app=idp-ui'
@@ -11,8 +13,6 @@ metadata:
     circleci.com/project-slug: github/vigneswara-propelo/python-pipeline-samples
     jenkins.io/github-folder: 'CDS-68313'
     firehydrant.com/service-name: 'pipeline-service'
-  tags:
-    - key: ScorecardStatsTest
 spec:
   type: service
   owner: "IDPAdmin"
