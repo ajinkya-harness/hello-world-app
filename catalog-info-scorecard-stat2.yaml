@@ -12,7 +12,7 @@ metadata:
     jenkins.io/github-folder: 'CDS-68313'
     firehydrant.com/service-name: 'pipeline-service'
   tags:
-    - ScorecardStatsTest
+    - key: ScorecardStatsTest
 spec:
   type: service
   owner: "IDPAdmin"
