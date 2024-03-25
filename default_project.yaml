@@ -8,6 +8,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: ajinkya-harness/hello-world-app
 spec:
-  type: system
+  type: service
   owner: "IDPAdmin"
   lifecycle: experimental
