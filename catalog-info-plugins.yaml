@@ -32,7 +32,7 @@ metadata:
     dev.azure.com/project-repo: idp-test/idp-test
     github.com/devcontainer-path: .devcontainer/devcontainer.json
     splunk.com/on-call-team: Example
-    backstage.io/source-location: url:https://github.com/Aashrit-Harness/hello-world-app/blob
+    backstage.io/source-location: url:https://github.com/ajinkya-harness/hello-world-app/blob
     backstage.io/adr-location: docs/adrs
     statuspage.io/components: instance:hknd4rscrt1t,mh487nk85mwx
 
