@@ -32,7 +32,7 @@ metadata:
     dev.azure.com/project-repo: idp-test/idp-test
     github.com/devcontainer-path: .devcontainer/devcontainer.json
     harness.io/pipelines: "CI: https://qa.harness.io/ng/account/zEaak-FLS425IEO7OLzMUg/module/idp-admin/orgs/default/projects/idpprojectsc/pipelines/DummyPipeline/pipeline-studio?storeType=INLINE\n   CD: https://qa.harness.io/ng/account/zEaak-FLS425IEO7OLzMUg/module/idp-admin/orgs/default/projects/idpprojectsc/pipelines/DummyPipeline/pipeline-studio?storeType=INLINE\n"
-  coverage: "100.00"
+  coverage: "abc"
 spec:
   type: service
   owner: "IDPAdmin"
