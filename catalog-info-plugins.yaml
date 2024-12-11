@@ -25,7 +25,7 @@ metadata:
     prometheus.io/alert: all
     opsgenie.com/component-selector: 'tag:"service:hello_world"'
     opsgenie.com/team: 'Hello World Team'
-   dynatrace.com/dynatrace-entity-id: APPLICATION-A97880B9A9D5EAE6
+    dynatrace.com/dynatrace-entity-id: APPLICATION-A97880B9A9D5EAE6
     dynatrace.com/synthetics-ids: HTTP_CHECK-6832023F41EB3AD2
     rootly.com/service-id: 3d62aea1-509f-4c31-a8d1-6d2515b16e66
     rootly.com/service-auto-import: enabled
